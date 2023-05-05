@@ -49,7 +49,7 @@
                     "parmesan cheese"
                 ],
                 "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
-                "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=740&t=st=1683127697~exp=1683128297~hmac=87a4101e1fef644a3528e4d093f9a7de96d8f148139514d9fe0c3868f9a07354",
+                "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683185764~exp=1683186364~hmac=6ecb02db00c4980d8384ee120f126c7ccbe87ae3c07c456c052e92fbc5aba88d",
                 "rating": 4.5
             }
         ]
@@ -60,61 +60,51 @@
         "chefName": "Bob Johnson",
         "chefBio": "Bob is a classically trained chef who has worked in some of the world's top restaurants. He specializes in French cuisine and is passionate about using fresh, high-quality ingredients.",
         "yearsOfExperience": 15,
-        " numOfRecipes": 75,
+        "numOfRecipes": 75,
         "likes": 4000,
         "recipes": [
             {
-                "name": "Beef Bourguignon",
+                "name": "Grilled Sea Bass",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "sea bass",
+                    "olive oil",
+                    "lemon",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "salt",
+                    "pepper"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Preheat grill to medium-high heat. 2. Brush sea bass with olive oil and season with salt and pepper. 3. Grill fish for 4-5 minutes per side, or until cooked through. 4. Serve with lemon wedges.",
+                "image": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?w=740&t=st=1683127655~exp=1683128255~hmac=b960034e4c7423c614d76ea438aa7a008ec49faf1dff6d4083e55cf423090a8d",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=740&t=st=1683127697~exp=1683128297~hmac=87a4101e1fef644a3528e4d093f9a7de96d8f148139514d9fe0c3868f9a07354",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683185764~exp=1683186364~hmac=6ecb02db00c4980d8384ee120f126c7ccbe87ae3c07c456c052e92fbc5aba88d",
                 "rating": 4.5
             }
         ]
@@ -125,61 +115,51 @@
         "chefName": "Jamie Lee",
         "chefBio": "Jamie Lee is a classically trained chef who has worked in some of the world's top restaurants. He specializes in French cuisine and is passionate about using fresh, high-quality ingredients.",
         "yearsOfExperience": 5,
-        " numOfRecipes": 45,
+        "numOfRecipes": 45,
         "likes": 400,
         "recipes": [
             {
-                "name": "Beef Bourguignon",
+                "name": "Grilled Sea Bass",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "sea bass",
+                    "olive oil",
+                    "lemon",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "salt",
+                    "pepper"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Preheat grill to medium-high heat. 2. Brush sea bass with olive oil and season with salt and pepper. 3. Grill fish for 4-5 minutes per side, or until cooked through. 4. Serve with lemon wedges.",
+                "image": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?w=740&t=st=1683127655~exp=1683128255~hmac=b960034e4c7423c614d76ea438aa7a008ec49faf1dff6d4083e55cf423090a8d",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=740&t=st=1683127697~exp=1683128297~hmac=87a4101e1fef644a3528e4d093f9a7de96d8f148139514d9fe0c3868f9a07354",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683185764~exp=1683186364~hmac=6ecb02db00c4980d8384ee120f126c7ccbe87ae3c07c456c052e92fbc5aba88d",
                 "rating": 4.5
             }
         ]
@@ -190,61 +170,51 @@
         "chefName": "David Kim",
         "chefBio": "David Kim is a classically trained chef who has worked in some of the world's top restaurants. He specializes in French cuisine and is passionate about using fresh, high-quality ingredients.",
         "yearsOfExperience": 25,
-        " numOfRecipes": 27,
+        "numOfRecipes": 27,
         "likes": 400,
         "recipes": [
             {
-                "name": "Beef Bourguignon",
+                "name": "Grilled Sea Bass",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "sea bass",
+                    "olive oil",
+                    "lemon",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "salt",
+                    "pepper"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Preheat grill to medium-high heat. 2. Brush sea bass with olive oil and season with salt and pepper. 3. Grill fish for 4-5 minutes per side, or until cooked through. 4. Serve with lemon wedges.",
+                "image": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?w=740&t=st=1683127655~exp=1683128255~hmac=b960034e4c7423c614d76ea438aa7a008ec49faf1dff6d4083e55cf423090a8d",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=740&t=st=1683127697~exp=1683128297~hmac=87a4101e1fef644a3528e4d093f9a7de96d8f148139514d9fe0c3868f9a07354",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683185764~exp=1683186364~hmac=6ecb02db00c4980d8384ee120f126c7ccbe87ae3c07c456c052e92fbc5aba88d",
                 "rating": 4.5
             }
         ]
@@ -255,61 +225,51 @@
         "chefName": "Angela Nguyen",
         "chefBio": "Angela Nguyen is a classically trained chef who has worked in some of the world's top restaurants. He specializes in French cuisine and is passionate about using fresh, high-quality ingredients.",
         "yearsOfExperience": 1,
-        " numOfRecipes": 7,
+        "numOfRecipes": 7,
         "likes": 400,
         "recipes": [
             {
-                "name": "Beef Bourguignon",
+                "name": "Grilled Sea Bass",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "sea bass",
+                    "olive oil",
+                    "lemon",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "salt",
+                    "pepper"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Preheat grill to medium-high heat. 2. Brush sea bass with olive oil and season with salt and pepper. 3. Grill fish for 4-5 minutes per side, or until cooked through. 4. Serve with lemon wedges.",
+                "image": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?w=740&t=st=1683127655~exp=1683128255~hmac=b960034e4c7423c614d76ea438aa7a008ec49faf1dff6d4083e55cf423090a8d",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=740&t=st=1683127697~exp=1683128297~hmac=87a4101e1fef644a3528e4d093f9a7de96d8f148139514d9fe0c3868f9a07354",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683185764~exp=1683186364~hmac=6ecb02db00c4980d8384ee120f126c7ccbe87ae3c07c456c052e92fbc5aba88d",
                 "rating": 4.5
             }
         ]
@@ -320,61 +280,51 @@
         "chefName": "Marco Rodriguez",
         "chefBio": "Marco Rodriguez is a classically trained chef who has worked in some of the world's top restaurants. He specializes in French cuisine and is passionate about using fresh, high-quality ingredients.",
         "yearsOfExperience": 35,
-        " numOfRecipes": 35,
+        "numOfRecipes": 35,
         "likes": 300,
         "recipes": [
             {
-                "name": "Beef Bourguignon",
+                "name": "Grilled Sea Bass",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "sea bass",
+                    "olive oil",
+                    "lemon",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "salt",
+                    "pepper"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Preheat grill to medium-high heat. 2. Brush sea bass with olive oil and season with salt and pepper. 3. Grill fish for 4-5 minutes per side, or until cooked through. 4. Serve with lemon wedges.",
+                "image": "https://img.freepik.com/free-photo/delicious-fried-chicken-plate_144627-27383.jpg?w=740&t=st=1683127655~exp=1683128255~hmac=b960034e4c7423c614d76ea438aa7a008ec49faf1dff6d4083e55cf423090a8d",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=740&t=st=1683127697~exp=1683128297~hmac=87a4101e1fef644a3528e4d093f9a7de96d8f148139514d9fe0c3868f9a07354",
                 "rating": 4.5
             },
             {
-                "name": "Beef Bourguignon",
+                "name": "Summer Vegetable Pasta",
                 "ingredients": [
-                    "beef",
-                    "bacon",
-                    "onion",
-                    "carrots",
+                    "pasta",
+                    "zucchini",
+                    "yellow squash",
+                    "tomatoes",
                     "garlic",
-                    "red wine",
-                    "beef broth",
-                    "thyme",
-                    "bay leaves",
-                    "mushrooms"
+                    "olive oil",
+                    "parmesan cheese"
                 ],
-                "directions": "1. Preheat oven to 350°F. 2. Cook bacon in a large Dutch oven over medium-high heat until crisp. 3. Remove bacon and set aside. 4. Add beef to the Dutch oven and brown on all sides. 5. Remove beef and set aside. 6. Add onion, carrots, and garlic to the Dutch oven and cook until softened. 7. Add red wine and beef broth and bring to a simmer. 8. Return beef and bacon to the Dutch oven. 9. Add thyme and bay leaves. 10. Cover and bake in the oven for 2-3 hours, or until beef is tender. 11. Add mushrooms and cook for an additional 10-15 minutes. 12. Serve with mashed potatoes or crusty bread.",
-                "image": "https://example.com/beef-bourguignon.jpg",
+                "directions": "1. Cook pasta according to package directions. 2. Heat olive oil in a large skillet over medium-high heat. 3. Add garlic and cook for 1-2 minutes, or until fragrant. 4. Add zucchini, yellow squash, and tomatoes and cook for 5-7 minutes, or until vegetables are tender. 5. Toss pasta with vegetables and top with grated parmesan cheese.",
+                "image": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683185764~exp=1683186364~hmac=6ecb02db00c4980d8384ee120f126c7ccbe87ae3c07c456c052e92fbc5aba88d",
                 "rating": 4.5
             }
         ]
